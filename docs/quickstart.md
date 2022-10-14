@@ -29,8 +29,9 @@ mkvirtualenv graphql-auth-quickstart
 
 First install django:
 
+~~pip install django~~
 ```bash
-pip install django
+pip install django==3.2
 ```
 
 Then, create the new project:
